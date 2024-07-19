@@ -1,1 +1,1 @@
-in.fishtokri.app
+com.fishtokri.app

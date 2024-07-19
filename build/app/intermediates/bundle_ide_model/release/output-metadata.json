@@ -4,7 +4,7 @@
     "type": "BUNDLE",
     "kind": "RegularFile"
   },
-  "applicationId": "in.fishtokri.app",
+  "applicationId": "com.fishtokri.app",
   "variantName": "release",
   "elements": [
     {

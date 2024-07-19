@@ -4,7 +4,7 @@
             "outputFile": "com.example.fishtokri.app-mergeReleaseResources-10:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/antmav/Documents/Sheetal_FlutterPro/fishtokri/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/antmav/Documents/Sheetal_FlutterPro/Fishtokri-Flutter/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

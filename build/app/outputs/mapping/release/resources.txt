@@ -1275,207 +1275,207 @@ Marking attr:activityName:2130771969 used because it matches string pool constan
 Marking attr:secondaryActivityName:2130771991 used because it matches string pool constant secondaryActivityName.packageName
 Marking id:line1:2131034160 used because it matches string pool constant line
 Marking id:line3:2131034161 used because it matches string pool constant line
-@in.fishtokri.app:attr/activityAction : reachable=true
-@in.fishtokri.app:attr/activityName : reachable=true
-@in.fishtokri.app:attr/alpha : reachable=false
-@in.fishtokri.app:attr/alwaysExpand : reachable=false
-@in.fishtokri.app:attr/clearTop : reachable=false
-@in.fishtokri.app:attr/finishPrimaryWithSecondary : reachable=false
-@in.fishtokri.app:attr/finishSecondaryWithPrimary : reachable=false
-@in.fishtokri.app:attr/font : reachable=false
-@in.fishtokri.app:attr/fontProviderAuthority : reachable=false
-@in.fishtokri.app:attr/fontProviderCerts : reachable=false
-@in.fishtokri.app:attr/fontProviderFetchStrategy : reachable=false
-@in.fishtokri.app:attr/fontProviderFetchTimeout : reachable=false
-@in.fishtokri.app:attr/fontProviderPackage : reachable=false
-@in.fishtokri.app:attr/fontProviderQuery : reachable=false
-@in.fishtokri.app:attr/fontProviderSystemFontFamily : reachable=false
-@in.fishtokri.app:attr/fontStyle : reachable=false
-@in.fishtokri.app:attr/fontVariationSettings : reachable=false
-@in.fishtokri.app:attr/fontWeight : reachable=false
-@in.fishtokri.app:attr/nestedScrollViewStyle : reachable=false
-@in.fishtokri.app:attr/placeholderActivityName : reachable=false
-@in.fishtokri.app:attr/primaryActivityName : reachable=true
-@in.fishtokri.app:attr/queryPatterns : reachable=false
-@in.fishtokri.app:attr/secondaryActivityAction : reachable=true
-@in.fishtokri.app:attr/secondaryActivityName : reachable=true
-@in.fishtokri.app:attr/shortcutMatchRequired : reachable=true
-@in.fishtokri.app:attr/splitLayoutDirection : reachable=false
-@in.fishtokri.app:attr/splitMinSmallestWidth : reachable=false
-@in.fishtokri.app:attr/splitMinWidth : reachable=false
-@in.fishtokri.app:attr/splitRatio : reachable=false
-@in.fishtokri.app:attr/ttcIndex : reachable=false
-@in.fishtokri.app:color/androidx_core_ripple_material_light : reachable=true
-@in.fishtokri.app:color/androidx_core_secondary_text_default_material_light : reachable=true
-@in.fishtokri.app:color/notification_action_color_filter : reachable=false
-    @in.fishtokri.app:color/androidx_core_secondary_text_default_material_light
-@in.fishtokri.app:color/notification_icon_bg_color : reachable=false
-@in.fishtokri.app:dimen/compat_button_inset_horizontal_material : reachable=false
-@in.fishtokri.app:dimen/compat_button_inset_vertical_material : reachable=false
-@in.fishtokri.app:dimen/compat_button_padding_horizontal_material : reachable=false
-@in.fishtokri.app:dimen/compat_button_padding_vertical_material : reachable=false
-@in.fishtokri.app:dimen/compat_control_corner_material : reachable=false
-@in.fishtokri.app:dimen/compat_notification_large_icon_max_height : reachable=false
-@in.fishtokri.app:dimen/compat_notification_large_icon_max_width : reachable=false
-@in.fishtokri.app:dimen/notification_action_icon_size : reachable=false
-@in.fishtokri.app:dimen/notification_action_text_size : reachable=false
-@in.fishtokri.app:dimen/notification_big_circle_margin : reachable=false
-@in.fishtokri.app:dimen/notification_content_margin_start : reachable=false
-@in.fishtokri.app:dimen/notification_large_icon_height : reachable=false
-@in.fishtokri.app:dimen/notification_large_icon_width : reachable=false
-@in.fishtokri.app:dimen/notification_main_column_padding_top : reachable=false
-@in.fishtokri.app:dimen/notification_media_narrow_margin : reachable=false
-@in.fishtokri.app:dimen/notification_right_icon_size : reachable=false
-@in.fishtokri.app:dimen/notification_right_side_padding_top : reachable=false
-@in.fishtokri.app:dimen/notification_small_icon_background_padding : reachable=false
-@in.fishtokri.app:dimen/notification_small_icon_size_as_large : reachable=false
-@in.fishtokri.app:dimen/notification_subtext_size : reachable=false
-@in.fishtokri.app:dimen/notification_top_pad : reachable=false
-@in.fishtokri.app:dimen/notification_top_pad_large_text : reachable=false
-@in.fishtokri.app:drawable/launch_background : reachable=false
-@in.fishtokri.app:drawable/notification_action_background : reachable=false
-    @in.fishtokri.app:color/androidx_core_ripple_material_light
-    @in.fishtokri.app:dimen/compat_button_inset_horizontal_material
-    @in.fishtokri.app:dimen/compat_button_inset_vertical_material
-    @in.fishtokri.app:dimen/compat_control_corner_material
-    @in.fishtokri.app:dimen/compat_button_padding_vertical_material
-    @in.fishtokri.app:dimen/compat_button_padding_horizontal_material
-@in.fishtokri.app:drawable/notification_bg : reachable=false
-    @in.fishtokri.app:drawable/notification_bg_normal_pressed
-    @in.fishtokri.app:drawable/notification_bg_normal
-@in.fishtokri.app:drawable/notification_bg_low : reachable=false
-    @in.fishtokri.app:drawable/notification_bg_low_pressed
-    @in.fishtokri.app:drawable/notification_bg_low_normal
-@in.fishtokri.app:drawable/notification_bg_low_normal : reachable=false
-@in.fishtokri.app:drawable/notification_bg_low_pressed : reachable=false
-@in.fishtokri.app:drawable/notification_bg_normal : reachable=false
-@in.fishtokri.app:drawable/notification_bg_normal_pressed : reachable=false
-@in.fishtokri.app:drawable/notification_icon_background : reachable=false
-    @in.fishtokri.app:color/notification_icon_bg_color
-@in.fishtokri.app:drawable/notification_template_icon_bg : reachable=false
-@in.fishtokri.app:drawable/notification_template_icon_low_bg : reachable=false
-@in.fishtokri.app:drawable/notification_tile_bg : reachable=false
-    @in.fishtokri.app:drawable/notify_panel_notification_icon_bg
-@in.fishtokri.app:drawable/notify_panel_notification_icon_bg : reachable=false
-@in.fishtokri.app:id/accessibility_action_clickable_span : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_0 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_1 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_10 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_11 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_12 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_13 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_14 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_15 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_16 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_17 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_18 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_19 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_2 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_20 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_21 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_22 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_23 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_24 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_25 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_26 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_27 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_28 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_29 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_3 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_30 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_31 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_4 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_5 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_6 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_7 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_8 : reachable=true
-@in.fishtokri.app:id/accessibility_custom_action_9 : reachable=true
-@in.fishtokri.app:id/action_container : reachable=true
-@in.fishtokri.app:id/action_divider : reachable=true
-@in.fishtokri.app:id/action_image : reachable=true
-@in.fishtokri.app:id/action_text : reachable=true
-@in.fishtokri.app:id/actions : reachable=true
-@in.fishtokri.app:id/androidx_window_activity_scope : reachable=true
-@in.fishtokri.app:id/async : reachable=false
-@in.fishtokri.app:id/blocking : reachable=false
-@in.fishtokri.app:id/chronometer : reachable=false
-@in.fishtokri.app:id/dialog_button : reachable=false
-@in.fishtokri.app:id/forever : reachable=false
-@in.fishtokri.app:id/icon : reachable=false
-@in.fishtokri.app:id/icon_group : reachable=false
-@in.fishtokri.app:id/info : reachable=true
-@in.fishtokri.app:id/italic : reachable=false
-@in.fishtokri.app:id/line1 : reachable=true
-@in.fishtokri.app:id/line3 : reachable=true
-@in.fishtokri.app:id/locale : reachable=true
-@in.fishtokri.app:id/ltr : reachable=false
-@in.fishtokri.app:id/normal : reachable=false
-@in.fishtokri.app:id/notification_background : reachable=false
-@in.fishtokri.app:id/notification_main_column : reachable=false
-@in.fishtokri.app:id/notification_main_column_container : reachable=false
-@in.fishtokri.app:id/right_icon : reachable=false
-@in.fishtokri.app:id/right_side : reachable=false
-@in.fishtokri.app:id/rtl : reachable=false
-@in.fishtokri.app:id/tag_accessibility_actions : reachable=false
-@in.fishtokri.app:id/tag_accessibility_clickable_spans : reachable=false
-@in.fishtokri.app:id/tag_accessibility_heading : reachable=false
-@in.fishtokri.app:id/tag_accessibility_pane_title : reachable=false
-@in.fishtokri.app:id/tag_on_apply_window_listener : reachable=false
-@in.fishtokri.app:id/tag_on_receive_content_listener : reachable=false
-@in.fishtokri.app:id/tag_on_receive_content_mime_types : reachable=false
-@in.fishtokri.app:id/tag_screen_reader_focusable : reachable=false
-@in.fishtokri.app:id/tag_state_description : reachable=false
-@in.fishtokri.app:id/tag_transition_group : reachable=false
-@in.fishtokri.app:id/tag_unhandled_key_event_manager : reachable=false
-@in.fishtokri.app:id/tag_unhandled_key_listeners : reachable=false
-@in.fishtokri.app:id/tag_window_insets_animation_callback : reachable=false
-@in.fishtokri.app:id/text : reachable=true
-@in.fishtokri.app:id/text2 : reachable=true
-@in.fishtokri.app:id/time : reachable=false
-@in.fishtokri.app:id/title : reachable=false
-@in.fishtokri.app:integer/status_bar_notification_info_maxnum : reachable=false
-@in.fishtokri.app:layout/custom_dialog : reachable=false
-@in.fishtokri.app:layout/notification_action : reachable=false
-    @in.fishtokri.app:style/Widget_Compat_NotificationActionContainer
-    @in.fishtokri.app:dimen/notification_action_icon_size
-    @in.fishtokri.app:style/Widget_Compat_NotificationActionText
-@in.fishtokri.app:layout/notification_action_tombstone : reachable=false
-    @in.fishtokri.app:style/Widget_Compat_NotificationActionContainer
-    @in.fishtokri.app:dimen/notification_action_icon_size
-    @in.fishtokri.app:style/Widget_Compat_NotificationActionText
-@in.fishtokri.app:layout/notification_template_custom_big : reachable=false
-    @in.fishtokri.app:layout/notification_template_icon_group
-    @in.fishtokri.app:dimen/notification_large_icon_width
-    @in.fishtokri.app:dimen/notification_large_icon_height
-    @in.fishtokri.app:dimen/notification_right_side_padding_top
-    @in.fishtokri.app:layout/notification_template_part_time
-    @in.fishtokri.app:layout/notification_template_part_chronometer
-    @in.fishtokri.app:style/TextAppearance_Compat_Notification_Info
-@in.fishtokri.app:layout/notification_template_icon_group : reachable=false
-    @in.fishtokri.app:dimen/notification_large_icon_width
-    @in.fishtokri.app:dimen/notification_large_icon_height
-    @in.fishtokri.app:dimen/notification_big_circle_margin
-    @in.fishtokri.app:dimen/notification_right_icon_size
-@in.fishtokri.app:layout/notification_template_part_chronometer : reachable=false
-    @in.fishtokri.app:style/TextAppearance_Compat_Notification_Time
-@in.fishtokri.app:layout/notification_template_part_time : reachable=false
-    @in.fishtokri.app:style/TextAppearance_Compat_Notification_Time
-@in.fishtokri.app:mipmap/ic_launcher : reachable=true
-@in.fishtokri.app:string/status_bar_notification_info_overflow : reachable=false
-@in.fishtokri.app:style/LaunchTheme : reachable=true
-    @in.fishtokri.app:drawable/launch_background
-@in.fishtokri.app:style/NormalTheme : reachable=true
-@in.fishtokri.app:style/TextAppearance_Compat_Notification : reachable=false
-@in.fishtokri.app:style/TextAppearance_Compat_Notification_Info : reachable=false
-@in.fishtokri.app:style/TextAppearance_Compat_Notification_Line2 : reachable=false
-    @in.fishtokri.app:style/TextAppearance_Compat_Notification_Info
-@in.fishtokri.app:style/TextAppearance_Compat_Notification_Time : reachable=false
-@in.fishtokri.app:style/TextAppearance_Compat_Notification_Title : reachable=false
-@in.fishtokri.app:style/Widget_Compat_NotificationActionContainer : reachable=false
-    @in.fishtokri.app:drawable/notification_action_background
-@in.fishtokri.app:style/Widget_Compat_NotificationActionText : reachable=false
-    @in.fishtokri.app:color/androidx_core_secondary_text_default_material_light
-    @in.fishtokri.app:dimen/notification_action_text_size
+@com.fishtokri.app:attr/activityAction : reachable=true
+@com.fishtokri.app:attr/activityName : reachable=true
+@com.fishtokri.app:attr/alpha : reachable=false
+@com.fishtokri.app:attr/alwaysExpand : reachable=false
+@com.fishtokri.app:attr/clearTop : reachable=false
+@com.fishtokri.app:attr/finishPrimaryWithSecondary : reachable=false
+@com.fishtokri.app:attr/finishSecondaryWithPrimary : reachable=false
+@com.fishtokri.app:attr/font : reachable=false
+@com.fishtokri.app:attr/fontProviderAuthority : reachable=false
+@com.fishtokri.app:attr/fontProviderCerts : reachable=false
+@com.fishtokri.app:attr/fontProviderFetchStrategy : reachable=false
+@com.fishtokri.app:attr/fontProviderFetchTimeout : reachable=false
+@com.fishtokri.app:attr/fontProviderPackage : reachable=false
+@com.fishtokri.app:attr/fontProviderQuery : reachable=false
+@com.fishtokri.app:attr/fontProviderSystemFontFamily : reachable=false
+@com.fishtokri.app:attr/fontStyle : reachable=false
+@com.fishtokri.app:attr/fontVariationSettings : reachable=false
+@com.fishtokri.app:attr/fontWeight : reachable=false
+@com.fishtokri.app:attr/nestedScrollViewStyle : reachable=false
+@com.fishtokri.app:attr/placeholderActivityName : reachable=false
+@com.fishtokri.app:attr/primaryActivityName : reachable=true
+@com.fishtokri.app:attr/queryPatterns : reachable=false
+@com.fishtokri.app:attr/secondaryActivityAction : reachable=true
+@com.fishtokri.app:attr/secondaryActivityName : reachable=true
+@com.fishtokri.app:attr/shortcutMatchRequired : reachable=true
+@com.fishtokri.app:attr/splitLayoutDirection : reachable=false
+@com.fishtokri.app:attr/splitMinSmallestWidth : reachable=false
+@com.fishtokri.app:attr/splitMinWidth : reachable=false
+@com.fishtokri.app:attr/splitRatio : reachable=false
+@com.fishtokri.app:attr/ttcIndex : reachable=false
+@com.fishtokri.app:color/androidx_core_ripple_material_light : reachable=true
+@com.fishtokri.app:color/androidx_core_secondary_text_default_material_light : reachable=true
+@com.fishtokri.app:color/notification_action_color_filter : reachable=false
+    @com.fishtokri.app:color/androidx_core_secondary_text_default_material_light
+@com.fishtokri.app:color/notification_icon_bg_color : reachable=false
+@com.fishtokri.app:dimen/compat_button_inset_horizontal_material : reachable=false
+@com.fishtokri.app:dimen/compat_button_inset_vertical_material : reachable=false
+@com.fishtokri.app:dimen/compat_button_padding_horizontal_material : reachable=false
+@com.fishtokri.app:dimen/compat_button_padding_vertical_material : reachable=false
+@com.fishtokri.app:dimen/compat_control_corner_material : reachable=false
+@com.fishtokri.app:dimen/compat_notification_large_icon_max_height : reachable=false
+@com.fishtokri.app:dimen/compat_notification_large_icon_max_width : reachable=false
+@com.fishtokri.app:dimen/notification_action_icon_size : reachable=false
+@com.fishtokri.app:dimen/notification_action_text_size : reachable=false
+@com.fishtokri.app:dimen/notification_big_circle_margin : reachable=false
+@com.fishtokri.app:dimen/notification_content_margin_start : reachable=false
+@com.fishtokri.app:dimen/notification_large_icon_height : reachable=false
+@com.fishtokri.app:dimen/notification_large_icon_width : reachable=false
+@com.fishtokri.app:dimen/notification_main_column_padding_top : reachable=false
+@com.fishtokri.app:dimen/notification_media_narrow_margin : reachable=false
+@com.fishtokri.app:dimen/notification_right_icon_size : reachable=false
+@com.fishtokri.app:dimen/notification_right_side_padding_top : reachable=false
+@com.fishtokri.app:dimen/notification_small_icon_background_padding : reachable=false
+@com.fishtokri.app:dimen/notification_small_icon_size_as_large : reachable=false
+@com.fishtokri.app:dimen/notification_subtext_size : reachable=false
+@com.fishtokri.app:dimen/notification_top_pad : reachable=false
+@com.fishtokri.app:dimen/notification_top_pad_large_text : reachable=false
+@com.fishtokri.app:drawable/launch_background : reachable=false
+@com.fishtokri.app:drawable/notification_action_background : reachable=false
+    @com.fishtokri.app:color/androidx_core_ripple_material_light
+    @com.fishtokri.app:dimen/compat_button_inset_horizontal_material
+    @com.fishtokri.app:dimen/compat_button_inset_vertical_material
+    @com.fishtokri.app:dimen/compat_control_corner_material
+    @com.fishtokri.app:dimen/compat_button_padding_vertical_material
+    @com.fishtokri.app:dimen/compat_button_padding_horizontal_material
+@com.fishtokri.app:drawable/notification_bg : reachable=false
+    @com.fishtokri.app:drawable/notification_bg_normal_pressed
+    @com.fishtokri.app:drawable/notification_bg_normal
+@com.fishtokri.app:drawable/notification_bg_low : reachable=false
+    @com.fishtokri.app:drawable/notification_bg_low_pressed
+    @com.fishtokri.app:drawable/notification_bg_low_normal
+@com.fishtokri.app:drawable/notification_bg_low_normal : reachable=false
+@com.fishtokri.app:drawable/notification_bg_low_pressed : reachable=false
+@com.fishtokri.app:drawable/notification_bg_normal : reachable=false
+@com.fishtokri.app:drawable/notification_bg_normal_pressed : reachable=false
+@com.fishtokri.app:drawable/notification_icon_background : reachable=false
+    @com.fishtokri.app:color/notification_icon_bg_color
+@com.fishtokri.app:drawable/notification_template_icon_bg : reachable=false
+@com.fishtokri.app:drawable/notification_template_icon_low_bg : reachable=false
+@com.fishtokri.app:drawable/notification_tile_bg : reachable=false
+    @com.fishtokri.app:drawable/notify_panel_notification_icon_bg
+@com.fishtokri.app:drawable/notify_panel_notification_icon_bg : reachable=false
+@com.fishtokri.app:id/accessibility_action_clickable_span : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_0 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_1 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_10 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_11 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_12 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_13 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_14 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_15 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_16 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_17 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_18 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_19 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_2 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_20 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_21 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_22 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_23 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_24 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_25 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_26 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_27 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_28 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_29 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_3 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_30 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_31 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_4 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_5 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_6 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_7 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_8 : reachable=true
+@com.fishtokri.app:id/accessibility_custom_action_9 : reachable=true
+@com.fishtokri.app:id/action_container : reachable=true
+@com.fishtokri.app:id/action_divider : reachable=true
+@com.fishtokri.app:id/action_image : reachable=true
+@com.fishtokri.app:id/action_text : reachable=true
+@com.fishtokri.app:id/actions : reachable=true
+@com.fishtokri.app:id/androidx_window_activity_scope : reachable=true
+@com.fishtokri.app:id/async : reachable=false
+@com.fishtokri.app:id/blocking : reachable=false
+@com.fishtokri.app:id/chronometer : reachable=false
+@com.fishtokri.app:id/dialog_button : reachable=false
+@com.fishtokri.app:id/forever : reachable=false
+@com.fishtokri.app:id/icon : reachable=false
+@com.fishtokri.app:id/icon_group : reachable=false
+@com.fishtokri.app:id/info : reachable=true
+@com.fishtokri.app:id/italic : reachable=false
+@com.fishtokri.app:id/line1 : reachable=true
+@com.fishtokri.app:id/line3 : reachable=true
+@com.fishtokri.app:id/locale : reachable=true
+@com.fishtokri.app:id/ltr : reachable=false
+@com.fishtokri.app:id/normal : reachable=false
+@com.fishtokri.app:id/notification_background : reachable=false
+@com.fishtokri.app:id/notification_main_column : reachable=false
+@com.fishtokri.app:id/notification_main_column_container : reachable=false
+@com.fishtokri.app:id/right_icon : reachable=false
+@com.fishtokri.app:id/right_side : reachable=false
+@com.fishtokri.app:id/rtl : reachable=false
+@com.fishtokri.app:id/tag_accessibility_actions : reachable=false
+@com.fishtokri.app:id/tag_accessibility_clickable_spans : reachable=false
+@com.fishtokri.app:id/tag_accessibility_heading : reachable=false
+@com.fishtokri.app:id/tag_accessibility_pane_title : reachable=false
+@com.fishtokri.app:id/tag_on_apply_window_listener : reachable=false
+@com.fishtokri.app:id/tag_on_receive_content_listener : reachable=false
+@com.fishtokri.app:id/tag_on_receive_content_mime_types : reachable=false
+@com.fishtokri.app:id/tag_screen_reader_focusable : reachable=false
+@com.fishtokri.app:id/tag_state_description : reachable=false
+@com.fishtokri.app:id/tag_transition_group : reachable=false
+@com.fishtokri.app:id/tag_unhandled_key_event_manager : reachable=false
+@com.fishtokri.app:id/tag_unhandled_key_listeners : reachable=false
+@com.fishtokri.app:id/tag_window_insets_animation_callback : reachable=false
+@com.fishtokri.app:id/text : reachable=true
+@com.fishtokri.app:id/text2 : reachable=true
+@com.fishtokri.app:id/time : reachable=false
+@com.fishtokri.app:id/title : reachable=false
+@com.fishtokri.app:integer/status_bar_notification_info_maxnum : reachable=false
+@com.fishtokri.app:layout/custom_dialog : reachable=false
+@com.fishtokri.app:layout/notification_action : reachable=false
+    @com.fishtokri.app:style/Widget_Compat_NotificationActionContainer
+    @com.fishtokri.app:dimen/notification_action_icon_size
+    @com.fishtokri.app:style/Widget_Compat_NotificationActionText
+@com.fishtokri.app:layout/notification_action_tombstone : reachable=false
+    @com.fishtokri.app:style/Widget_Compat_NotificationActionContainer
+    @com.fishtokri.app:dimen/notification_action_icon_size
+    @com.fishtokri.app:style/Widget_Compat_NotificationActionText
+@com.fishtokri.app:layout/notification_template_custom_big : reachable=false
+    @com.fishtokri.app:layout/notification_template_icon_group
+    @com.fishtokri.app:dimen/notification_large_icon_width
+    @com.fishtokri.app:dimen/notification_large_icon_height
+    @com.fishtokri.app:dimen/notification_right_side_padding_top
+    @com.fishtokri.app:layout/notification_template_part_time
+    @com.fishtokri.app:layout/notification_template_part_chronometer
+    @com.fishtokri.app:style/TextAppearance_Compat_Notification_Info
+@com.fishtokri.app:layout/notification_template_icon_group : reachable=false
+    @com.fishtokri.app:dimen/notification_large_icon_width
+    @com.fishtokri.app:dimen/notification_large_icon_height
+    @com.fishtokri.app:dimen/notification_big_circle_margin
+    @com.fishtokri.app:dimen/notification_right_icon_size
+@com.fishtokri.app:layout/notification_template_part_chronometer : reachable=false
+    @com.fishtokri.app:style/TextAppearance_Compat_Notification_Time
+@com.fishtokri.app:layout/notification_template_part_time : reachable=false
+    @com.fishtokri.app:style/TextAppearance_Compat_Notification_Time
+@com.fishtokri.app:mipmap/ic_launcher : reachable=true
+@com.fishtokri.app:string/status_bar_notification_info_overflow : reachable=false
+@com.fishtokri.app:style/LaunchTheme : reachable=true
+    @com.fishtokri.app:drawable/launch_background
+@com.fishtokri.app:style/NormalTheme : reachable=true
+@com.fishtokri.app:style/TextAppearance_Compat_Notification : reachable=false
+@com.fishtokri.app:style/TextAppearance_Compat_Notification_Info : reachable=false
+@com.fishtokri.app:style/TextAppearance_Compat_Notification_Line2 : reachable=false
+    @com.fishtokri.app:style/TextAppearance_Compat_Notification_Info
+@com.fishtokri.app:style/TextAppearance_Compat_Notification_Time : reachable=false
+@com.fishtokri.app:style/TextAppearance_Compat_Notification_Title : reachable=false
+@com.fishtokri.app:style/Widget_Compat_NotificationActionContainer : reachable=false
+    @com.fishtokri.app:drawable/notification_action_background
+@com.fishtokri.app:style/Widget_Compat_NotificationActionText : reachable=false
+    @com.fishtokri.app:color/androidx_core_secondary_text_default_material_light
+    @com.fishtokri.app:dimen/notification_action_text_size
 
 The root reachable resources are:
  attr:activityAction:2130771968

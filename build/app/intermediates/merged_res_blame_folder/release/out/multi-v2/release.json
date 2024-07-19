@@ -654,7 +654,7 @@
                     }
                 },
                 {
-                    "source": "/Users/antmav/Documents/Sheetal_FlutterPro/fishtokri/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/antmav/Documents/Sheetal_FlutterPro/Fishtokri-Flutter/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -787,7 +787,7 @@
             "outputFile": "com.example.fishtokri.app-merged_res-12:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/antmav/Documents/Sheetal_FlutterPro/fishtokri/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/antmav/Documents/Sheetal_FlutterPro/Fishtokri-Flutter/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

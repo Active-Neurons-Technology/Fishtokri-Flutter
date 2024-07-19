@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "in.fishtokri.app",
+  "applicationId": "com.fishtokri.app",
   "variantName": "release",
   "elements": []
 }
