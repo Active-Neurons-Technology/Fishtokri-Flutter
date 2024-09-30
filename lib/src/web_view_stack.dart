@@ -36,12 +36,12 @@ class _WebViewStackState extends State<WebViewStack> {
       ..setJavaScriptMode(JavaScriptMode.unrestricted)
       ..loadRequest(
         Uri.parse('https://fishtokri.com'),
-
       );
     //to go back to previous page
-    onWebViewCreated: (controller) {
-        this.controller = controller;
-      };
+    onWebViewCreated:
+    (controller) {
+      this.controller = controller;
+    };
   }
 
   @override
